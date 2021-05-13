@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659861190656",
+    "project_id": "nizhniy800",
+    "storage_bucket": "nizhniy800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659861190656:android:171bace83687b5b98cc0e5",
+        "android_client_info": {
+          "package_name": "com.tests.nizhniy800"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659861190656-uhcjgd4jm3b604n52jpog3036tvfrom1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRk686yBPq6KVy8wrU4f2IBpkmVBukOY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659861190656-uhcjgd4jm3b604n52jpog3036tvfrom1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

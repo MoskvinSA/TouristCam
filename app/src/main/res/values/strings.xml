@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">touristCam</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email"> email or phone number</string>
+    <string name="prompt_password"> password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_in_or_register">or</string>
+    <string name="lets_scan">Scan</string>
+    <string name="home_">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="account">Profile</string>
+    <string name="settings">Settings</string>
+
+</resources>
